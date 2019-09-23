@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JavaScriptBridge</id>
+    <version>1.0.0</version>
+    <authors>rjmurillo</authors>
+    <owners></owners>
+    <projectUrl>https://github.com/RainwayApp/WebView_AddAllowedWebObjectWorkaround</projectUrl>
+    <licenseUrl>https://github.com/rjmurillo/WebView_AddAllowedWebObjectWorkaround/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Workaround for lack of AddAllowedWebObject in Win32 WebView.</description>
+  </metadata>
+</package>
